@@ -1,5 +1,6 @@
 #==============================================================================
 # Copyright (c) 2011-2013 Evgeny Proydakov <lord.tiran@gmail.com>
+# Copyright (c) 2025-2025 Evgeny Proydakov <lord.tiran@gmail.com>
 # Copyright (c) 2013-2014 Andrey Urusov <rdo@rk9.bmstu.ru>
 #==============================================================================
 # Welcome to the CMake build system for RDO STUDIO.
@@ -7,7 +8,7 @@
 # and provide build configuration options.
 #==============================================================================
 
-CMAKE_MINIMUM_REQUIRED(VERSION 2.8.7)
+CMAKE_MINIMUM_REQUIRED(VERSION 3.20.0)
 CMAKE_POLICY(SET CMP0020 NEW)
 PROJECT(rdo)
 
